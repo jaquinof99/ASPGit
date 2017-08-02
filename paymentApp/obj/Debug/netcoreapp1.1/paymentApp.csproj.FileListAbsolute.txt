@@ -1,0 +1,16 @@
+G:\ASP\paymentApp\bin\Debug\netcoreapp1.1\paymentApp.deps.json
+G:\ASP\paymentApp\bin\Debug\netcoreapp1.1\paymentApp.runtimeconfig.json
+G:\ASP\paymentApp\bin\Debug\netcoreapp1.1\paymentApp.runtimeconfig.dev.json
+G:\ASP\paymentApp\bin\Debug\netcoreapp1.1\paymentApp.dll
+G:\ASP\paymentApp\bin\Debug\netcoreapp1.1\paymentApp.pdb
+G:\ASP\paymentApp\obj\Debug\netcoreapp1.1\paymentApp.AssemblyInfo.cs
+G:\ASP\paymentApp\obj\Debug\netcoreapp1.1\paymentApp.dll
+G:\ASP\paymentApp\obj\Debug\netcoreapp1.1\paymentApp.pdb
+F:\ASP\paymentApp\bin\Debug\netcoreapp1.1\paymentApp.deps.json
+F:\ASP\paymentApp\bin\Debug\netcoreapp1.1\paymentApp.runtimeconfig.json
+F:\ASP\paymentApp\bin\Debug\netcoreapp1.1\paymentApp.runtimeconfig.dev.json
+F:\ASP\paymentApp\bin\Debug\netcoreapp1.1\paymentApp.dll
+F:\ASP\paymentApp\bin\Debug\netcoreapp1.1\paymentApp.pdb
+F:\ASP\paymentApp\obj\Debug\netcoreapp1.1\paymentApp.AssemblyInfo.cs
+F:\ASP\paymentApp\obj\Debug\netcoreapp1.1\paymentApp.dll
+F:\ASP\paymentApp\obj\Debug\netcoreapp1.1\paymentApp.pdb
